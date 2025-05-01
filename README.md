@@ -25,21 +25,19 @@ A simple and user-friendly Python command-line application to share expenses bet
    ```bash
    git clone https://github.com/yourusername/expense-splitter.git
    cd expense-splitter
-Run the program:
-bash
-Run
-Copy code
+   
+### Run the program:
 python expense_splitter.py
+
 Follow the interactive prompts to add friends, add expenses, view balances, and settle debts.
-Usage
+
+### Usage
 Use the menu options to add friends and expenses as needed.
 Always include the payer among the participants when recording an expense.
 View current balances to see how much each person owes or is owed.
 Settle debts to get instructions on who should pay whom to balance accounts.
-Example
-plaintext
-Run
-Copy code
+
+#### Example
 Main Menu:
 1. Add Friend
 2. List Friends
@@ -48,12 +46,6 @@ Main Menu:
 5. Show Balances
 6. Settle Debts
 7. Exit
-Contributing
+
+### Contributing
 Contributions are welcome! Feel free to open issues or pull requests for bug fixes or new features.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Run
-Copy code
-undefined
